@@ -1,0 +1,11 @@
+como manipular arquivos 
+
+    escreveu em arquivos 
+
+    leu " " 
+
+só posso trabalhar com arquivos dentro da minha máquina?
+
+pc trata tudo como arquivo, php faz semelhante
+
+por meio de protocolos

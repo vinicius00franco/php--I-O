@@ -1,0 +1,8 @@
+Design Patterns PHP I: Boas práticas de programação
+Design Patterns PHP II: Boas práticas de programação
+Persistencia com PHP
+
+Arquitetura com PHP
+
+Desigin Patterns
+Desigin Patterns
